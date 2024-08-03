@@ -1,0 +1,4 @@
+selenium
+instapy
+python-dotenv
+textblob==0.15.3
